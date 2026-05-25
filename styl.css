@@ -1,6 +1,6 @@
 @import url("style/header.css");
 body {
-    background-color: bisque;
+    background-color: rgb(255, 196, 255);
 }
 .container img{
     max-width:200px;
